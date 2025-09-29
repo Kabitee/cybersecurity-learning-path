@@ -1,5 +1,5 @@
-Cybersecurity Learning Path
-About This Repository
+Cybersecurity Learning Path.
+
 This repository documents my journey into cybersecurity, tracking my progress from foundational concepts to practical applications. Here, I maintain course notes, certification materials, lab exercises, and resources as I build expertise in the field.
 Current Certifications
 
