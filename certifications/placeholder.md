@@ -5,7 +5,7 @@ This folder contains documentation of completed certifications, study materials,
 ## Completed Certifications
 
 ### Cisco Introduction to Cybersecurity
-- **Completion Date:** [Add your date]
+- **Completion Date:** 27th September 2025
 - **Issuing Organization:** Cisco Networking Academy
 - **Key Topics Covered:**
   - Cybersecurity fundamentals
