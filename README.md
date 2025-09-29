@@ -44,11 +44,8 @@ Cybersecurity YouTube channels
 Security blogs and documentation
 
 Connect With Me
-LinkedIn:www.linkedin.com/in/
+
+
+LinkedIn: :www.linkedin.com/in/
 teddy-gichuhi-942690289
-Vanity URL name
-Email:teddygichuhi1@gmail.com
-
-
-LinkedIn: [Your LinkedIn URL]
-Email: [Your Email]
+Email: teddygichuhi1@gmail.com
