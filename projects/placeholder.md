@@ -52,4 +52,4 @@ Through these projects, I aim to showcase:
 - Problem-solving and critical thinking
 
 
-*Projects will be added progressively as I build my cybersecurity portfol
+Projects will be added progressively as I build my cybersecurity portfolio
